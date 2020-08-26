@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Git GitHub GitLab使用教程&lt;Hexo使用第一天&gt;</title>
+    <url>/2020/08/26/Hexo%E4%BD%BF%E7%94%A8%E7%AC%AC%E4%B8%80%E5%A4%A9/</url>
+    <content><![CDATA[<p>我是短小精悍的文章摘要(๑•̀ㅂ•́) ✧</p>
+<a id="more"></a>
+
+<p>Git GitHub GitLab使用教程 Git是目前世界上最优秀的版本控制系统，用以有效、高速的处理从小到大的项目版本管理。</p>
+<p>在他的基础之上，衍生出GitHub和GitLab这两个当前最流行的代码托管平台，为开发团队提供了存储、 分享、发布和合作开发项目的中心化云存储的场所。</p>
+<p>在阿里、微软、美团到互联网创业公司， 都会使用Git和GitHub进行团队协作或者基于GitLab做私有的代码平台，所以掌握Git、GitHub 和GitLab进行团队协作，已经成为企业对工程师的最基本要求。</p>
+<p>针对当前情况我们推出了此门课程， 帮助学员系统掌握Git、GitHub和GitLab的使用方法以及高效协作的精髓， 从而上手团队协作开发，成为一名优秀的团队工作者。</p>
+<p>百度网盘：<a href="https://pan.baidu.com/s/1odztu--NSPj4FYt_W0ywWA">https://pan.baidu.com/s/1odztu--NSPj4FYt_W0ywWA</a> 提取码：f8sk</p>
+]]></content>
+      <categories>
+        <category>个人博客</category>
+        <category>资源收集</category>
+      </categories>
+      <tags>
+        <tag>Hexo测试</tag>
+        <tag>技术分享</tag>
+        <tag>资源收集</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hexo添加图片</title>
+    <url>/2020/08/26/Hexo%E6%B7%BB%E5%8A%A0%E5%9B%BE%E7%89%87/</url>
+    <content><![CDATA[<p>前提：修改_config.yml配置文件post_asset_folder项为true<br>创建博客是使用命令创建 hexo new Hexo添加图片<br>使用完命令之后，在source/_post文件夹里面就会出现一个“Hexo添加图片.md”的文件和一个“Hexo添加图片”的文件夹<br>以下图片代码段 <img src="/2020/08/26/Hexo%E6%B7%BB%E5%8A%A0%E5%9B%BE%E7%89%87/%E7%9C%8B%E5%9B%BE%EF%BC%8C%E4%BB%A3%E7%A0%81%E8%BF%98%E6%B7%BB%E5%8A%A0%E4%B8%8D%E4%BA%86.png" class="" title="很简单的一句代码"><br>目录结构 <img src="/2020/08/26/Hexo%E6%B7%BB%E5%8A%A0%E5%9B%BE%E7%89%87/%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84.png" class="" title="清楚明白"></p>
+<hr>
+<p>个人公众号：<img src="/2020/08/26/Hexo%E6%B7%BB%E5%8A%A0%E5%9B%BE%E7%89%87/%E6%89%AB%E7%A0%81%E5%85%B3%E6%B3%A8%E5%85%AC%E4%BC%97%E5%8F%B7%EF%BC%8C%E5%85%8D%E8%B4%B9%E9%A2%86%E5%8F%96%E7%99%BE%E4%B8%87%E5%B9%B2%E8%B4%A7.png" class="" title="公众号二维码">关注领取百万资源！</p>
+<img src="/2020/08/26/Hexo%E6%B7%BB%E5%8A%A0%E5%9B%BE%E7%89%87/%E4%B8%AA%E4%BA%BA%E5%85%AC%E4%BC%97%E5%8F%B7.jpg" class="" title="这是一个个人微信">]]></content>
+      <categories>
+        <category>个人博客</category>
+        <category>Hexo测试</category>
+      </categories>
+      <tags>
+        <tag>Hexo测试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Adobe PS 2021版本的Photoshop出来啦</title>
+    <url>/2020/08/26/%E6%B5%8B%E8%AF%95%E4%BD%BF%E7%94%A8/</url>
+    <content><![CDATA[<p>Adobe Photoshop 2021 2021版本的Photoshop出来啦！</p>
+<p>总体变化不大，软件最大的不同就是启动图标了， 能让人一眼就看出来你用的是2021版本。</p>
+<p>Adobe PS 2021版本的Photoshop出来啦<br>软件更注重智能，提供了AI的功能。 本版本直接安装即可使用！</p>
+<p>使用要求： 仅支持Windows 10系统，版本号1809以上 7代 CPU以上 内存大于8G 神经AI智能滤镜 2021版的滤镜库新增了一个Neural Gallery，暂译为神经AI滤镜， 滤镜主要针对人像，可通过AI进行智能调节修复人像，本滤镜相当于一个人像处理 的小型路径库，包含了众多让人耳目一新惊喜的功能，譬如智能肖像、皮肤平滑度、 蒙尘与划痕、肖像漫画化等。 目前的2021版已知的新增功能主要就是这两点， 从中可以看出，近些年Adobe产品越来越注重智能化，过去繁杂的操作正在被新技术替代， 更多新增功能只能等待正式版发布后，官方的正式说明了。</p>
+<p>链接: <a href="https://pan.baidu.com/s/1U6Jc80jdDGKGz0GapjAo2A">https://pan.baidu.com/s/1U6Jc80jdDGKGz0GapjAo2A</a> 提取码: 2hk5</p>
+<p>更过资源关注微信公众号想想就知道！</p>
+]]></content>
+      <categories>
+        <category>个人博客</category>
+        <category>技术资源</category>
+      </categories>
+      <tags>
+        <tag>Hexo测试</tag>
+        <tag>技术分享</tag>
+        <tag>资源收集</tag>
+      </tags>
+  </entry>
+</search>
